@@ -14,21 +14,18 @@
 
 
 
-<h4> -🚀*Nabil Hany El-Eraky El-Emrawy*.</h4>
-<div>
+ -🚀*Nabil Hany El-Eraky El-Emrawy*.
+
 -🎓 **Third-year student**.  
 - 🏢 **Mansoura University - Faculty of Specific Education, Computer Science Department**.
-</div>
-- <hr>
-<div>
+
+
 -💡 Passionate about web development, specializing in *Front-End Development*.  
 -🛠 Tech Stack: *HTML, CSS, JavaScript, Bootstrap, React.js*.  
 -🚀 Always exploring new technologies and modern web trends.  
 -📚 Lifelong learner, striving to build creative and user-friendly web experiences.  
-</div>
 
-- <hr>
-<div>
+
 - 🌟 **Current Project**: Pursuing a diploma in frontend development with a goal to specialize in React.
 - 🎯 **Career Goals**:
   - **Short-term**: Complete the frontend development diploma from Almdrasa.
@@ -38,20 +35,17 @@
 
 
 -🔗 Let’s connect and build something amazing together!
-</div>
+
 ---
 
 
-<div>
+
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/-79535b23a" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Hany-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Nabil_Hany22" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Hany-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-</div>
 
-
-<div>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -63,7 +57,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-</div>
+
 
 
 
@@ -74,5 +68,4 @@
 </a>
 
 
-- <hr>
 ********
