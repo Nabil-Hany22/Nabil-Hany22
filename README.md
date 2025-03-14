@@ -36,8 +36,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ahmed-abdul-ghaffar-79535b23a" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ahmed_Mahmoud_Abdulghaffar" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/-79535b23a" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Hany-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Hany-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 
@@ -55,10 +55,13 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abdul-ghaffar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabil-Hany22&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Nabil-Hany22&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Nabil-Hany22&style=for-the-badge">
 </a>
 
+
+
+********
 ---
