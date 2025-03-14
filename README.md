@@ -14,10 +14,10 @@
 
 
 
--🚀 Nabil Hany El-Eraky El-Emrawy* 
+-🚀<h4> *Nabil Hany El-Eraky El-Emrawy*.</h4>
 -🎓 **Third-year student**.  
 - 🏢 **Mansoura University - Faculty of Specific Education, Computer Science Department**.
-- 
+- <hr>
 -💡 Passionate about web development, specializing in *Front-End Development*.  
 -🛠 Tech Stack: *HTML, CSS, JavaScript, Bootstrap, React.js*.  
 -🚀 Always exploring new technologies and modern web trends.  
