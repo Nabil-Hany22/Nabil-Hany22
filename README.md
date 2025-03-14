@@ -14,7 +14,7 @@
 
 
 
--🚀<h4> *Nabil Hany El-Eraky El-Emrawy*.</h4>
+<h4> -🚀*Nabil Hany El-Eraky El-Emrawy*.</h4>
 -🎓 **Third-year student**.  
 - 🏢 **Mansoura University - Faculty of Specific Education, Computer Science Department**.
 - <hr>
@@ -22,7 +22,7 @@
 -🛠 Tech Stack: *HTML, CSS, JavaScript, Bootstrap, React.js*.  
 -🚀 Always exploring new technologies and modern web trends.  
 -📚 Lifelong learner, striving to build creative and user-friendly web experiences.  
-
+- <hr>
 - 🌟 **Current Project**: Pursuing a diploma in frontend development with a goal to specialize in React.
 - 🎯 **Career Goals**:
   - **Short-term**: Complete the frontend development diploma from Almdrasa.
@@ -34,7 +34,7 @@
 -🔗 Let’s connect and build something amazing together!
 ---
 
-
+- <hr>
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/-79535b23a" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Hany-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -63,5 +63,5 @@
 </a>
 
 
-
+- <hr>
 ********
