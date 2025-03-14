@@ -61,12 +61,4 @@
     <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdul-ghaffar&style=for-the-badge">
 </a>
 
-- 🌟 **Current Project**: Pursuing a diploma in frontend development with a goal to specialize in React.
-- 🎯 **Career Goals**:
-  - **Short-term**: Complete the frontend development diploma from Almdrasa.
-  - **Long-term**: Explore advanced fields like **AI and ML** and eventually build my own business.
-- 📚 **Hobby**: I love reading books.
-- 🍵 **Fun Fact**: I love tea.
-- 🌟 **Unique Experience**: Earned a scholarship from the University of Science and Technology at Zewail City after finishing secondary school but decided to pursue my current path.
-
 ---
