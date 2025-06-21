@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -11,20 +10,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=learning%20Frontend%20web%20development;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-
-
-
  -🚀*Nabil Hany El-Eraky El-Emrawy*.
 
 -🎓 **Third-year student**.  
 - 🏢 **Mansoura University - Faculty of Specific Education, Computer Science Department**.
 
-
 -💡 Passionate about web development, specializing in *Front-End Development*.  
 -🛠 Tech Stack: *HTML, CSS, JavaScript, Bootstrap, React.js*.  
 -🚀 Always exploring new technologies and modern web trends.  
 -📚 Lifelong learner, striving to build creative and user-friendly web experiences.  
-
 
 - 🌟 **Current Project**: Pursuing a diploma in frontend development with a goal to specialize in React.
 - 🎯 **Career Goals**:
@@ -33,18 +27,20 @@
 - 📚 **Hobby**: I love reading books.
 - 🍵 **Fun Fact**: I love tea.
 
-
 -🔗 Let’s connect and build something amazing together!
 
 ---
 
-
-
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/nabil-el-amrawy/" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Hany-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Nabil_Hany22" target="_blank"><img src="https://img.shields.io/badge/-Nabil%20Hany-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nabil-el-amrawy/" target="_blank">
+  <img src="https://img.shields.io/badge/Nabil_Hany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/Nabil_Hany22" target="_blank">
+  <img src="https://img.shields.io/badge/Nabil_Hany-0077B5?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
+---
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -57,15 +53,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
+---
 
+### 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabil-Hany22&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabil-Hany22&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Nabil-Hany22&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Nabil-Hany22&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Nabil-Hany22&style=for-the-badge">
 </a>
-
 
 ********
